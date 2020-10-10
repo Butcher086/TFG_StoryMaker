@@ -1,0 +1,15 @@
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.SmartCenter.deps.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.SmartCenter.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.SmartCenter.pdb
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.csprojAssemblyReference.cache
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.AssemblyInfoInputs.cache
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.AssemblyInfo.cs
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.pdb
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.Core.exe
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.Core.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\bin\Debug\netcoreapp3.1\StoryMaker.Core.pdb
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.SmartCenter\obj\Debug\netcoreapp3.1\StoryMaker.SmartCenter.csproj.CopyComplete

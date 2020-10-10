@@ -1,0 +1,69 @@
+<h1>Configurator</h1>
+<p>Este es el configurador de Story Maker. Puedes utilizarlo para crear, modificar o eliminar frases e historias.</p>
+
+<div>
+  <div class="row">
+    <p style="font-weight:600" class="col">Frases</p>
+    <p style="font-weight:600" class="col">Frases añadidas</p>
+  </div>
+
+  <div class="row">
+
+    <div id="PhrasesSection" class="col">
+      <select class="cuadrofrases" name="PhrasesMultiple" multiple>
+        <option *ngFor="let phrase of phrases" (click)="onSelect(phrase)">
+          {{ phrase.phraseText }}
+        </option>
+      </select>
+    </div>
+
+    <div id="PhrasesSelectedSection" class="col">
+      <select class="cuadrofrases" name="Phrasesselected" multiple>
+        <option *ngFor="let phrase of phrasesSelected" (click)="onSelectSelected(phrase)">
+          ({{ phrase.phraseType }}) {{ phrase.phraseText }}
+        </option>
+      </select>
+    </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <button (click)="addPhraseToHistory()">Add to history</button>      
+      <button (click)="deletePhrase()">Delete Phrase</button>
+    </div>
+    
+    <div class="col">
+      <button (click)="createHistory()">Upload history</button>
+      <button (click)="clearPhraseAdded()">Remove Phrase</button>
+    </div>
+  </div>
+
+  <p style="font-weight:600">Añadir nueva frase</p>
+  <div class="row col">
+    <!--<input #newPhrase (keyup.enter)="addPhrase(newPhrase.value)" (blur)="addPhrase(newPhrase.value); newPhrase.value='' "/>-->
+    <input class="inputfrases" #inputNewPhrase [(ngModel)]="newPhrase" />
+
+    <button (click)="addPhrase()">Add</button>
+  </div>
+
+  <p style="font-weight:600">Historias</p>
+  <div class="row">
+
+    <div id="HistoriesSection" class="col">
+      <select class="cuadrohistorias" name="HistoriesMultiple" multiple>
+        <option *ngFor="let history of historyText" (click)="onSelectHistory(history)">
+          -->{{ history.textPhrases }}
+        </option>
+      </select>
+    </div>
+
+  </div>
+
+  <div class="row col">    
+    <button (click)="deleteHistory()">Delete History</button>
+  </div>
+</div>
+
+
+

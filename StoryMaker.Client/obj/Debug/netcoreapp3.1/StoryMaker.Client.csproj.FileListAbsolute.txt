@@ -1,0 +1,15 @@
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Client.deps.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Client.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.csprojAssemblyReference.cache
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.AssemblyInfoInputs.cache
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.AssemblyInfo.cs
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Core.exe
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Client.pdb
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Core.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\bin\Debug\netcoreapp3.1\StoryMaker.Core.pdb
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.csproj.CopyComplete
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.dll
+D:\Users\Ruben\OneDrive\Documents\Universidad\TFG2\StoryMaker\StoryMaker\StoryMaker.Client\obj\Debug\netcoreapp3.1\StoryMaker.Client.pdb
